@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_Consume_User_Event_Kafka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57b4e747-66c6-4f46-97a9-e1e179e0404f</testCaseGuid>
+</TestCaseEntity>
